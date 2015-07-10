@@ -15,7 +15,10 @@
         android:text="@string/hello_world" />
 
     <workspace.hero.com.pedometerapplication.LineChatView_
+        android:id="@+id/charView"
         android:layout_width="match_parent"
+        android:layout_below="@+id/txt"
+        android:layout_marginTop="20dp"
         android:layout_height="200dp" />
 
 </RelativeLayout>

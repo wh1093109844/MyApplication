@@ -26,6 +26,9 @@ public class MainActivityFragment extends Fragment {
     @ViewById(R.id.txt)
     TextView mTextView;
 
+    @ViewById(R.id.charView)
+    LineChatView_ charView;
+
     private Smotion mSmotion;
     private SmotionPedometer mSmotionPedometer;
     private SmotionPedometer.ChangeListener changeListener;
@@ -47,6 +50,7 @@ public class MainActivityFragment extends Fragment {
                 String str = getResources().getString(R.string.text);
                 str = String.format(str, currTime, speed, count, distance);
                 mTextView.setText(str);
+                charView.updateInfo(info);
             }
         };
 
