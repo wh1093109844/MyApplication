@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PedometerApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text">%1$d:你当前的速度是%2$.2f，总共走了%3$f步，%4$.2f米！</string>
+</resources>
