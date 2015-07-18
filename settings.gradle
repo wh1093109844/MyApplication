@@ -1,1 +1,1 @@
-include ':app', ':pedometerapplication', 'Pass'
+include 'Pass'

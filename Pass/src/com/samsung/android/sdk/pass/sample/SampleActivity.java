@@ -18,6 +18,9 @@ import com.samsung.android.sdk.pass.Spass;
 import com.samsung.android.sdk.pass.SpassFingerprint;
 import com.samsung.android.sdk.pass.SpassInvalidStateException;
 
+/**
+ * fix bug
+ */
 public class SampleActivity extends Activity {
 
     private SpassFingerprint mSpassFingerprint;
