@@ -1,1 +1,4 @@
-include ':app', ':pedometerapplication', 'Pass'
+include ':app'
+include ':pedometerapplication'
+include ':branchmodul'
+include 'Pass'
