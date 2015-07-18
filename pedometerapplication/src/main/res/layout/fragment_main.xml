@@ -16,7 +16,6 @@
 
     <workspace.hero.com.pedometerapplication.LineChatView_
         android:id="@+id/charView"
-        android:background="@android:color/holo_green_dark"
         android:layout_width="match_parent"
         android:layout_below="@+id/txt"
         android:layout_marginTop="20dp"
