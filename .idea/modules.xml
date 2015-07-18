@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuthLoginLibProject/AuthLoginLibProject.iml" filepath="$PROJECT_DIR$/AuthLoginLibProject/AuthLoginLibProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pass/Pass.iml" filepath="$PROJECT_DIR$/Pass/Pass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/branchmodul/branchmodul.iml" filepath="$PROJECT_DIR$/branchmodul/branchmodul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablet/tablet.iml" filepath="$PROJECT_DIR$/tablet/tablet.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/branchmodul/branchmodul.iml" filepath="$PROJECT_DIR$/branchmodul/branchmodul.iml" />
       <module fileurl="file://$PROJECT_DIR$/pedometerapplication/pedometerapplication.iml" filepath="$PROJECT_DIR$/pedometerapplication/pedometerapplication.iml" />
