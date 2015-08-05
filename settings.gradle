@@ -1,8 +1,6 @@
 include ':app'
-include ':pedometerapplication'
 include ':branchmodul'
 include 'Pass'
-include ':Pass'
 include ':app'
 include ':AuthLoginLibProject'
 include ':branchmodul'
