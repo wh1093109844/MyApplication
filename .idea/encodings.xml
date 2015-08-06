@@ -3,5 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/pedometerapplication/src/main/java/workspace/hero/com/pedometerapplication/MainActivity.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/settings.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tablet/src/main/java/com/example/hero/tablet/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tablet/src/main/java/com/example/hero/tablet/MainActivityFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tablet/src/main/java/com/example/hero/tablet/ResultActivity.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
